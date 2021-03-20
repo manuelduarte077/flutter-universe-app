@@ -1,4 +1,4 @@
-# flutter_universe
+# Flutter Universe
 
 Explore Universe App UI
 
